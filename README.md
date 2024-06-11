@@ -2,3 +2,4 @@ i have successfully completed my task 1 of web development internship at OctaNet
 in this task i have created a basic landing page for a gym workout website with different programs provided there. 
 
 ![thumbnail](https://github.com/atul-nandan/octanet_task_1/assets/172121045/32cdb0fd-7c9a-4ca7-9636-a9e69b8ddaa5)
+![thumbnail2](https://github.com/atul-nandan/octanet_task_1/assets/172121045/834ad0d1-9ca6-4534-9a9c-fb9801b090e6)
